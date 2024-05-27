@@ -19,7 +19,7 @@ export default function SimpleChart({ compared, baseline }: ChartProps) {
                 <div className="w-12 bg-white" style={{height: `${second}%`}}></div>
             </div>
             <hr/>
-            <p className="inline-block w-1/2 text-center">Ty</p><p className="inline-block w-1/2 text-center">Przeciętna osoba</p>
+            <p className="inline-block w-1/2 text-center">kamu</p><p className="inline-block w-1/2 text-center">Orang biasa</p>
         </div>
     )
 }

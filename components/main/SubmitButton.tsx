@@ -12,12 +12,12 @@ const   SubmitButton = ({ className }: { className?: string }) => {
 
   const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
     e.preventDefault()
-    if(all === 0) alert("Przoszę wypełnić formularz")
+    if(all === 0) alert("Silakan isi formulirnya")
     else router.push(href)  
   }
 
   return (
-    <a href={href} onClick={handleClick} className={`${className} bg-[#36b796] block py-[5px] px-[10px] text-white rounded-lg`}>Prześlij</a>
+    <a href={href} onClick={handleClick} className={`${className} bg-[#36b796] block py-[5px] px-[10px] text-white rounded-lg`}>Kirim</a>
   )
 }
 

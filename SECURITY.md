@@ -8,7 +8,7 @@ If you believe you've found a security issue in software that is maintained in t
 
 | Version | In scope | Source code |
 | ------- | -------- | ----------- |
-| latest  |   ✅    | https:github.com/janekskr/GoEco |
+| latest  |   ✅    | https:github.com/kdandy/carboneco |
 
 # How to Submit a Report
 

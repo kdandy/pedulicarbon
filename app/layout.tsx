@@ -7,7 +7,7 @@ const font = Lexend({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'GoEco',
-  description: 'GoEco to strona pozwalająca na zmierzenie swojego śladu węglowego. Ma ona uświadomić ludzi o tym jak dużym zagrożeniem jest globalne ocieplanie.',
+  description: 'GoEco adalah situs web yang memungkinkan Anda mengukur jejak karbon Anda. Tujuannya adalah menyadarkan masyarakat betapa besarnya ancaman pemanasan global.',
   icons: {
       icon: '/favicon.png',
   }

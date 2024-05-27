@@ -51,12 +51,12 @@ npm run dev
 ### 🔗 Cloning the repository
 
 ```shell
-git clone https://github.com/janekskr/GoEco.git
+git clone https://github.com/kdandy/carboneco
 ```
 
 ## 📄 License 
 
-GoEco is [MIT][mit] licensed, as found in the [LICENSE][license] file.
+PeduliCarbon is [MIT][mit] licensed, as found in the [LICENSE][license] file.
 
 
 [mit]: https://opensource.org/license/mit/

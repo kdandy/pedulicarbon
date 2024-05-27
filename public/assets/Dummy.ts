@@ -13,6 +13,6 @@ export const links = [
     },
     {
       href: "delivery",
-      name: "Przesyłki"
+      name: "Pengiriman"
     }
   ]

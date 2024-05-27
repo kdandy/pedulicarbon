@@ -21,7 +21,7 @@ const Delivery = () => {
   return (
     <>
       <Header>
-        <TitleComponent>Przesyłki</TitleComponent>
+        <TitleComponent>Pengiriman</TitleComponent>
         <div className="flex gap-[10px] sm:gap-[30px] items-center flex-col sm:flex-row">
           <NextBackButton back="entertainment" />
           <SubmitButton className="lg:hidden" />
@@ -35,7 +35,7 @@ const Delivery = () => {
             name="PackageDistance"
             type="number"
             setInput={setInput}
-            label='Długość jaką przebyła przesyłka ?'
+            label='Berapa lama perjalanan kirimannya?'
             value={input.PackageDistance}
             spanContent=" km"
           />
@@ -44,24 +44,24 @@ const Delivery = () => {
             name="PackageWeight"
             type="number"
             setInput={setInput}
-            label='Ile ważyła twoja przesyłka ?'
+            label='Berapa berat kiriman Anda?'
             value={input.PackageWeight}
             spanContent=" kg"
           />
 
-          <button onClick={addTask} className="bg-green-700 text-white rounded-lg p-[10px] hover:shadow-2xl">Dodaj Przesyłkę</button>
+          <button onClick={addTask} className="bg-green-700 text-white rounded-lg p-[10px] hover:shadow-2xl">Tambahkan Pengiriman</button>
 
         </div>
         <div className="grid grid-cols-1 w-full gap-[20px]">
           <ul className="flex items-center justify-between py-[10px] text-green-600 text-center border-b-[2px] border-b-green-700">
-            <li className="flex-1 text-center font-bold text-large">Nazwa</li>
-            <li className="flex-1 text-center font-bold text-large">Trasa</li>
-            <li className="flex-1 text-center font-bold text-large">Waga</li>
+            <li className="flex-1 text-center font-bold text-large">Nama</li>
+            <li className="flex-1 text-center font-bold text-large">Rute</li>
+            <li className="flex-1 text-center font-bold text-large">Libra</li>
           </ul>
           {
             list.map((item: any, index) => (
               <ul key={index} className="flex items-center justify-between bg-green-500 p-[10px] rounded-[10px] shadow-md text-white">
-                <li className="flex-1 text-center">Przesyłka {index + 1}</li>
+                <li className="flex-1 text-center">Pengiriman {index + 1}</li>
                 <li className="flex-1 text-center">{item.journey} km</li>
                 <li className="flex-1 text-center">{item.weight} kg</li>
               </ul>

@@ -13,10 +13,10 @@ const NavItems = ({ className, onClick, isOpen }: NavItemsProps) => {
     return (
         <motion.ul className={className} animate={{x: isOpen ? 0 : "-100vw"}}>
             <li onClick={onClick}>
-                <LinkComponent name="Strona Główna" to="/" />
+                <LinkComponent name="Home" to="/" />
             </li>
             <li onClick={onClick}>
-                <LinkComponent name="O Nas" to="/about" />
+                <LinkComponent name="Tentang" to="/about" />
             </li>
             <li onClick={onClick}>
                 <LinkComponent name="Kalkulator" to="/calculator/home" />

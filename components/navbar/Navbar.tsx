@@ -8,7 +8,7 @@ const Navbar = () => {
     const [isOpen, setIsOpen] = useState<boolean>(false)
     const toggleOpen = useCallback(() => {
         setIsOpen((value) => !value);
-      }, []);
+    }, []);
     return (
         <nav className="h-[80px] border-b-2 flex items-center justify-between px-[2vw] mx-[5vw]">
             <Logo />

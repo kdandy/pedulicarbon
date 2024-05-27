@@ -7,7 +7,8 @@ interface CircleChartProps {
     entries: Entry[]
 }
 
-export default function         CircleChart({ entries }: CircleChartProps) {
+export default function         
+    CircleChart({ entries }: CircleChartProps) {
     const colors = ["#b91c1c", "#4d7c0f", "#0e7490", "#86198f"]
 
     const sum = entries.map((x) => x.value).reduce((a, b) => a + b)

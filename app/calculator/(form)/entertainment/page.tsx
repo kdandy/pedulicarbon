@@ -12,7 +12,7 @@ const Calculator = () => {
   return (
     <>
       <Header>
-        <TitleComponent>Rozrywka</TitleComponent>
+        <TitleComponent>Hiburan</TitleComponent>
         <NextBackButton next="delivery" back="transport" />
       </Header>
       <ScrollContainer>
@@ -21,7 +21,7 @@ const Calculator = () => {
           name="LaptopUsage"
           type="number"
           setInput={setInput}
-          label='Ile godziń używałeś laptopa ?'
+          label='Berapa jam Anda menggunakan laptop?'
           value={input.LaptopUsage}
           spanContent=' h'
         />

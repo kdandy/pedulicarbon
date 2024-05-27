@@ -20,7 +20,7 @@ const Calculator = () => {
           name="UsedFuel"
           type="number"
           setInput={setInput}
-          label='Jakie jest twoje średnie spalanie na 100km ?'
+          label='Berapa rata-rata konsumsi bahan bakar Anda per 100 km?'
           value={input.UsedFuel}
           spanContent=" l / 100km"
         />
@@ -30,7 +30,7 @@ const Calculator = () => {
           name="DistanceDriven"
           type="number"
           setInput={setInput}
-          label='Ile kilometrów przejechałeś ?'
+          label='Berapa kilometer yang telah Anda tempuh?'
           value={input.DistanceDriven}
           spanContent=" km"
         />

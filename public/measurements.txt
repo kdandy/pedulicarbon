@@ -1,12 +1,11 @@
-W tym pliky zapisana jest produkcja CO2 przez różne czynniki:
+File ini mencatat produksi CO2 berdasarkan berbagai faktor:
 
-1kwH = 657,1 gramów CO2 
-1 tona węgla = 2-2,5 t, CO2
-1 tona gazu (metanu) = 2,68 tony CO2
-1 tona drzewa = 1,83 t CO2
-100l wody od temperatury kranowej (~15st. C) do 55 st. C = ~4,5kWh energii. (~2956,95g CO2)
-1 litr benzyny = 2.5kg CO2 
-Laptop zużywa 4,5 - 7 W na 1h 
+1kwH = 657,1 gram CO2 
+1 ton batubara = 2-2,5 ton, CO2
+1 ton gas (metana) = 2,68 ton CO2
+1 ton kayu = 1,83 t CO2
+100 liter air dari suhu keran (~15 derajat C) hingga 55 derajat C = ~4,5kWh energi. (~2956,95g CO2)
+1 liter bensin = 2,5kg CO2 
+Laptop mengkonsumsi 4,5 - 7 W per jam 
 
-Przeciętny Polak produkuje 8 ton CO2 na rok (ok. 666kg na miesiąc)
-
+Rata-rata penduduk Kutub Utara menghasilkan 8 ton CO2 per tahun (sekitar 666 kg per bulan)
