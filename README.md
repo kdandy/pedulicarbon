@@ -1,5 +1,6 @@
-<p align="center"><h1><b>PeduliCarbon</b></h1></p>
-
+<div align="center">
+  <h1><b>PeduliCarbon</b></h1>
+</div>
 ![Alt Website preview][image-preview]
 
 ## Introduction 
