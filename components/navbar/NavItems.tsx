@@ -19,7 +19,7 @@ const NavItems = ({ className, onClick, isOpen }: NavItemsProps) => {
                 <LinkComponent name="Tentang" to="/about" />
             </li>
             <li onClick={onClick}>
-                <LinkComponent name="Kalkulator" to="/calculator/home" />
+                <LinkComponent name="Calculator" to="/calculator/home" />
             </li>
             <li>
                 <GithubButton />
