@@ -1,4 +1,4 @@
-<p align="center"><b>PeduliCarbon</b></p>
+<p align="center"><h1><b>PeduliCarbon</b></h1></p>
 
 ![Alt Website preview][image-preview]
 
