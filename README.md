@@ -1,6 +1,7 @@
-<p align="center">PeduliCarbon</p>
+<p align="center"><b>PeduliCarbon</b></p>
 
 ![Alt Website preview][image-preview]
+
 ## Introduction 
 PeduliCarbon is a project made for competition [Mini Hackaton][mini-hackaton]. Its main purpose is to show the world how bad are climate changes. PeduliCarbon allows you to check your carbon footprint. You can try it on [pedulicarbon.hmif.codes][pedulicarbon-link]
 
