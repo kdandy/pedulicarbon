@@ -13,7 +13,7 @@ const About = () => {
           <svg className="w-full left-0 absolute stroke-[#02674e] top-[3px]" width="244" height="40" viewBox="0 0 244 40" fill="none">
             <path opacity="0.5" d="M3 21C20.1231 17.8525 37.9303 16.8192 55.3857 16.0719C84.6481 14.819 114.132 14.5194 143.388 15.9599C169.598 17.2503 195.455 20.3554 221.642 17.7519C228.347 17.0853 237.394 16.9679 244 16.9679" strokeWidth="20" strokeLinejoin="round" />
           </svg>
-        </a>. Tujuan utamanya adalah untuk menunjukkan kepada masyarakat betapa buruknya perubahan iklim terhadap lingkungan. GoEco memungkinkan Anda mengukur jejak karbon Anda. Anda dapat melihat kode sumber kami di<a href="https://github.com/kdandy/carboneco" target="_blank" className="text-white font-bold relative">
+        </a>. Tujuan utamanya adalah untuk menunjukkan kepada masyarakat betapa buruknya perubahan iklim terhadap lingkungan. PeduliCarbon memungkinkan Anda mengukur jejak karbon Anda. Anda dapat melihat kode sumber kami di<a href="https://github.com/kdandy/carboneco" target="_blank" className="text-white font-bold relative">
           <span className="relative z-[5]">GitHub</span>
           <svg className={`w-full left-0 absolute stroke-[#02674e] top-[3px]`} width="244" height="40" viewBox="0 0 244 40" fill="none">
             <path opacity="0.5" d="M3 21C20.1231 17.8525 37.9303 16.8192 55.3857 16.0719C84.6481 14.819 114.132 14.5194 143.388 15.9599C169.598 17.2503 195.455 20.3554 221.642 17.7519C228.347 17.0853 237.394 16.9679 244 16.9679" strokeWidth="40" strokeLinejoin="round" />
@@ -24,7 +24,7 @@ const About = () => {
 
       <ul className="list-disc pl-6 flex flex-col gap-[10px]">
         <li>
-          <a href="https://nextjs.org" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">Next.js</a> i <a href="https://react.dev/" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">React.js</a>
+          <a href="https://nextjs.org" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">Next.js</a> & <a href="https://react.dev/" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">React.js</a>
         </li>
         <li>
           <a href="https://typescriptlang.org/" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">Typescript</a>
@@ -33,7 +33,7 @@ const About = () => {
           <a href="https://tailwindcss.com" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">Tailwind CSS</a>
         </li>
         <li>
-          <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">React Three Fiber</a> i <a href="https://threejs.org/" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">Three.js</a>
+          <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">React Three Fiber</a> & <a href="https://threejs.org/" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">Three.js</a>
         </li>
         <li>
           <a href="https://postcss.org/" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">Postcss</a>

@@ -1,7 +1,7 @@
 export const links = [
     {
       href: "home",
-      name: "Dom"
+      name: "Home"
     },
     {
       href: "transport",

@@ -6,8 +6,8 @@ import {Footer} from '@/components/footer'
 const font = Lexend({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'GoEco',
-  description: 'GoEco adalah situs web yang memungkinkan Anda mengukur jejak karbon Anda. Tujuannya adalah menyadarkan masyarakat betapa besarnya ancaman pemanasan global.',
+  title: 'PeduliCarbon - Capstone Project',
+  description: 'PeduliCarbon adalah situs web yang memungkinkan Anda mengukur jejak karbon Anda. Tujuannya adalah menyadarkan masyarakat betapa besarnya ancaman pemanasan global.',
   icons: {
       icon: '/favicon.png',
   }

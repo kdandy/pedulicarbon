@@ -8,11 +8,11 @@ If you believe you've found a security issue in software that is maintained in t
 
 | Version | In scope | Source code |
 | ------- | -------- | ----------- |
-| latest  |   ✅    | https:github.com/kdandy/carboneco |
+| latest  |   ✅    | https:github.com/kdandy/pedulicarbon |
 
 # How to Submit a Report
 
-To submit a vulnerability report, please contact us at janeczek.skrobot@gmail.com. Your submission will be reviewed and validated by a member of our team.
+To submit a vulnerability report, please contact us at mabamasihpemulateam@gmail.com. Your submission will be reviewed and validated by a member of our team.
 
 # Safe Harbor
 

@@ -1,8 +1,8 @@
-# GoEco
+# PeduliCarbon
 
 ![Alt Website preview][image-preview]
 ## Introduction 
-GoEco is a project made for competition [Mini Hackaton][mini-hackaton]. Its main purpose is to show the world how bad are climate changes. GoEco allows you to check your carbon footprint. You can try it on [goeco.vercel.app][goceo-link]
+PeduliCarbon is a project made for competition [Mini Hackaton][mini-hackaton]. Its main purpose is to show the world how bad are climate changes. PeduliCarbon allows you to check your carbon footprint. You can try it on [pedulicarbon.hmif.codes][pedulicarbon-link]
 
 ## Contents
 
@@ -18,7 +18,7 @@ To see all info about contributing go to [CONTRIBUTING.md][contributing]
 
 ## 💖 Code of Conduct          
 
-GoEco has adopted a Code of Conduct that we expect project participants to adhere to. Please read the [full text][code-of-conduct] so that you can understand what actions will and will not be tolerated.
+PeduliCarbon has adopted a Code of Conduct that we expect project participants to adhere to. Please read the [full text][code-of-conduct] so that you can understand what actions will and will not be tolerated.
 
 ## 🖥️ Technologies
 
@@ -60,18 +60,17 @@ PeduliCarbon is [MIT][mit] licensed, as found in the [LICENSE][license] file.
 
 
 [mit]: https://opensource.org/license/mit/
-[license]: https://github.com/janekskr/GoEco/blob/master/LICENSE
+[license]: https://github.com/kdandy/pedulicarbon/blob/master/LICENSE
 [node]: https://nodejs.org/en
 [npm]: https://www.npmjs.com/
 [postcss]: https://postcss.org/
 [react-three-fiber]: https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
-[contributing]: https://github.com/janekskr/GoEco/blob/master/CONTRIBUTING.md
+[contributing]: https://github.com/janekskr/pedulicarbon/blob/master/CONTRIBUTING.md
 [mini-hackaton]: https://nowaakademia.org/mini-hackathon/mini-hackathon-edycja-iii/
-[image-preview]: https://github.com/janekskr/GoEco/blob/master/public/preview.png
-[goceo-link]: https://goeco.vercel.app
+[image-preview]: https://github.com/kdandy/pedulicarbon/blob/master/public/preview.png
+[pedulicarbon-link]: https://pedulicarbon.hmif.codes
 [nextjs]: https://nextjs.org/
 [react]: https://react.dev/
 [typescript]: https://www.typescriptlang.org/
 [tailwind]: https://tailwindcss.com
 [threejs]: https://threejs.org/
-[code-of-conduct]: https://github.com/janekskr/GoEco/blob/master/CODE_OF_CONDUCT.md
