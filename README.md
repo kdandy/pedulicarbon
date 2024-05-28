@@ -1,4 +1,4 @@
-# PeduliCarbon
+<p align="center">PeduliCarbon</p>
 
 ![Alt Website preview][image-preview]
 ## Introduction 
