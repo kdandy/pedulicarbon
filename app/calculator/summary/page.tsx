@@ -31,7 +31,7 @@ const Summary = () => {
             compared={all}
           />
           <CircleChart entries={[
-            { name: "Dom", value: home },
+            { name: "Home", value: home },
             { name: "Transport", value: transport },
             { name: "Hiburan", value: entertaiment }
           ]} />
