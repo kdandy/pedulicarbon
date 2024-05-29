@@ -3,7 +3,7 @@ const About = () => {
     <div className="px-[15vw] py-[40px] sm:py-[60px] text-xl">
 
       <h1 className="font-bold text-4xl mb-7 text-center sm:text-left">
-        About
+        Tentang
       </h1>
 
 
