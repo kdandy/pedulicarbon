@@ -21,9 +21,6 @@ const NavItems = ({ className, onClick, isOpen }: NavItemsProps) => {
             <li onClick={onClick}>
                 <LinkComponent name="Calculator" to="/calculator/home" />
             </li>
-            <li>
-                <GithubButton />
-            </li>
         </motion.ul>
     )
 }
