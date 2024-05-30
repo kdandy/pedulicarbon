@@ -56,6 +56,9 @@ const About = () => {
           <a href="https://eslint.org/" target="_blank" className="border-b-[3px] border-white font-semibold sm:hover:opacity-[.85] transition">ESLint</a>
         </li>
       </ul>
+
+      <p className="my-5 text-center sm:text-left">Mari Bergabung Bersama PeduliCarbon!</p>
+
     </div>
   )
 }
