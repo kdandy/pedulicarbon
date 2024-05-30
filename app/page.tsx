@@ -12,7 +12,7 @@ const Home = () => {
         <div className="flex items-center md:items-start flex-col md:ml-[5vw] w-full mx-[20px]">
           <h1 className="text-[2.2rem] sm:text-[3rem] md:text-[3.5rem] font-semibold text-center md:text-left">Hitung jejak karbon Anda</h1>
           <h1 className="text-[2.2rem] sm:text-[3rem] md:text-[3.5rem] font-extrabold text-center md:text-left">Dan jagalah lingkungan</h1>
-          <Link href="/calculator/home" className="bg-green-800 px-12 py-6 my-6 block rounded-full font-semibold text-2xl sm:text-3xl md:text-4xl hover:shadow-2xl transition">Calculator</Link>
+          <Link href="/calculator/home" className="bg-green-800 px-12 py-6 my-6 block rounded-full font-semibold text-2xl sm:text-3xl md:text-4xl hover:shadow-2xl transition">Hitung Carbon</Link>
         </div>
         <EarthComponent />
       </div>
