@@ -3,7 +3,7 @@ const SVG = () => {
         <svg id="wave" viewBox="0 0 1440 120" version="1.1" xmlns="http://www.w3.org/2000/svg" className="w-full">
             <defs>
                 <linearGradient id="sw-gradient-0" x1="0" x2="0" y1="1" y2="0">
-                    <stop stopColor="rgb(83, 145, 101)" offset="0%" />
+                    <stop stopColor="rgb(78, 108, 80)" offset="0%" />
                 </linearGradient>
             </defs>
             <path
