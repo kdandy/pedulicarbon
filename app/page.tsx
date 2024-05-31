@@ -8,31 +8,7 @@ import { useState, useEffect } from 'react';
 import React from 'react';
 
 const Home = () => {
-  const [isTyping, setIsTyping] = useState(true);
-  const [text, setText] = useState('');
   const phrases = ['Ukur Jejak,', 'Kurangi Dampak,', 'Selamatkan Bumi!'];
-  const [currentPhraseIndex, setCurrentPhraseIndex] = useState(0);
-  const [repeatingCursor, setRepeatingCursor] = useState(false);
-
-  useEffect(() => {
-    let currentText = '';
-    const typingInterval = setInterval(() => {
-      currentText = phrases[currentPhraseIndex].slice(0, currentText.length + 1);
-      setText(currentText);
-      if (currentText === phrases[currentPhraseIndex]) {
-        if (currentPhraseIndex === phrases.length - 1) {
-          clearInterval(typingInterval);
-          setIsTyping(false);
-          setRepeatingCursor(true);
-        } else {
-          setCurrentPhraseIndex(currentPhraseIndex + 1);
-          currentText = '';
-        }
-      }
-    }, 100);
-
-    return () => clearInterval(typingInterval);
-  }, [phrases, currentPhraseIndex]);
 
   const textVariants = {
     hidden: { opacity: 0 },
@@ -66,6 +42,7 @@ const Home = () => {
                     key={`${index}-${letterIndex}`}
                     variants={letterVariants}
                     className="inline-block"
+                    style={{ display: 'inline-block' }}
                   >
                     {letter === ' ' ? '\u00A0' : letter}
                   </motion.span>
