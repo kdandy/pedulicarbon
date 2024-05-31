@@ -12,7 +12,7 @@ const Calculator = () => {
   return (
     <>
       <Header>
-        <TitleComponent>Hiburan</TitleComponent>
+        <TitleComponent>Elektronik</TitleComponent>
         <NextBackButton next="delivery" back="transport" />
       </Header>
       <ScrollContainer>
@@ -23,7 +23,7 @@ const Calculator = () => {
           setInput={setInput}
           label='Berapa jam Anda menggunakan laptop?'
           value={input.LaptopUsage}
-          spanContent=' h'
+          spanContent=' jam'
         />
       </ScrollContainer>
     </>

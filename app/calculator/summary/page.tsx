@@ -21,9 +21,9 @@ const Summary = () => {
           all !== 0 ?
           <>
             <ul className="sm:text-[18px] md:text-[22px] mt-[35px] flex flex-col gap-[10px]">
-          <li className="text-center lg:text-left">{home} kilogram CO2 yang dihasilkan melalui penggunaan rumah tangga {percentage(home)}</li>
-          <li className="text-center lg:text-left">{transport} kilogram CO2 yang dihasilkan oleh transportasi {percentage(transport)}</li>
-          <li className="text-center lg:text-left">{entertaiment} kilogram CO2 yang dihasilkan oleh hiburan {percentage(entertaiment)}</li>
+          <li className="text-center lg:text-left">{home} kilogram CO2 yang dihasilkan melalui penggunaan Rumah Tangga {percentage(home)}</li>
+          <li className="text-center lg:text-left">{transport} kilogram CO2 yang dihasilkan oleh Transportasi {percentage(transport)}</li>
+          <li className="text-center lg:text-left">{entertaiment} kilogram CO2 yang dihasilkan oleh Gadget {percentage(entertaiment)}</li>
         </ul>
         <div className="flex flex-col lg:flex-row items-center gap-8 md:gap-12 lg:gap-24 my-8">
           <SimpleChart
@@ -33,7 +33,7 @@ const Summary = () => {
           <CircleChart entries={[
             { name: "Home", value: home },
             { name: "Transport", value: transport },
-            { name: "Hiburan", value: entertaiment }
+            { name: "Gadget", value: entertaiment }
           ]} />
         </div>
         <p className="text-center lg:text-left font-semibold text-2xl mb-[20px]">KESELURUHAN YANG ANDA PRODUKSI {all} KILOGRAM CO2</p>

@@ -53,10 +53,10 @@ const Delivery = () => {
 
         </div>
         <div className="grid grid-cols-1 w-full gap-[20px]">
-          <ul className="flex items-center justify-between py-[10px] text-green-600 text-center border-b-[2px] border-b-green-700">
+          <ul className="flex items-center justify-between py-[10px] text-white-600 text-center border-b-[2px] border-b-white-700">
             <li className="flex-1 text-center font-bold text-large">Nama</li>
-            <li className="flex-1 text-center font-bold text-large">Rute</li>
-            <li className="flex-1 text-center font-bold text-large">Libra</li>
+            <li className="flex-1 text-center font-bold text-large">Jarak</li>
+            <li className="flex-1 text-center font-bold text-large">Berat</li>
           </ul>
           {
             list.map((item: any, index) => (
