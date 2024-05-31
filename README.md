@@ -1,12 +1,14 @@
 <div align="center">
   <h1><b>PeduliCarbon</b></h1>
 </div>
+
 ![Alt Website preview][image-preview]
 
-## Introduction 
-PeduliCarbon is a project made for competition [Mini Hackaton][mini-hackaton]. Its main purpose is to show the world how bad are climate changes. PeduliCarbon allows you to check your carbon footprint. You can try it on [pedulicarbon.hmif.codes][pedulicarbon-link]
+## Pendahuluan
 
-## Contents
+PeduliCarbon adalah proyek yang dibuat untuk kompetisi [Capstone Project GDSC Universitas Diponegoro 2024.][capstone]. Tujuan utamanya adalah untuk menunjukkan kepada dunia betapa buruknya perubahan iklim. PeduliCarbon memungkinkan Anda untuk memeriksa jejak karbon Anda. Anda dapat mencobanya di [pedulicarbon.hmif.codes][pedulicarbon-link]
+
+## Daftar Isi
 
 - [Contributing](#-contributing)
 - [Code of Conduct](#-code-of-conduct)
@@ -16,27 +18,27 @@ PeduliCarbon is a project made for competition [Mini Hackaton][mini-hackaton]. I
 
 ## 👏 Contributing 
 
-To see all info about contributing go to [CONTRIBUTING.md][contributing]
+Untuk melihat semua info tentang cara berkontribusi, kunjungi [CONTRIBUTING.md][contributing]
 
 ## 💖 Code of Conduct          
 
-PeduliCarbon has adopted a Code of Conduct that we expect project participants to adhere to. Please read the [full text][code-of-conduct] so that you can understand what actions will and will not be tolerated.
+PeduliCarbon telah mengadopsi Kode Etik yang kami harapkan untuk dipatuhi oleh para peserta proyek. Silakan baca [full text][code-of-conduct] sehingga Anda dapat memahami tindakan apa yang akan dan tidak akan ditoleransi.
 
 ## 🖥️ Technologies
 
-In this project we used vast amount of modern technologies such as:
+Dalam proyek ini, kami menggunakan sejumlah besar teknologi modern seperti:
 
-- [Next.js][nextjs] and [React][react]
+- [Next.js][nextjs] dan [React][react]
 - [Typescript][typescript]
 - [Tailwind CSS][tailwind]
-- [React Three Fiber][react-three-fiber] and [Three.js][threejs]
+- [React Three Fiber][react-three-fiber] dan [Three.js][threejs]
 - [Postcss][postcss]
 
 ## 📖 Additional information
 
 ### 📋 Requirements
 
-[Node.js][node] and [NPM][npm]
+[Node.js][node] dan [NPM][npm]
 
 ### ⚙️ Packages Installation
 
@@ -53,12 +55,12 @@ npm run dev
 ### 🔗 Cloning the repository
 
 ```shell
-git clone https://github.com/kdandy/carboneco
+git clone https://github.com/kdandy/pedulicarbon
 ```
 
 ## 📄 License 
 
-PeduliCarbon is [MIT][mit] licensed, as found in the [LICENSE][license] file.
+PeduliCarbon memiliki lisensi [MIT][mit] seperti yang dapat ditemukan pada file [LICENSE][license].
 
 
 [mit]: https://opensource.org/license/mit/
@@ -67,8 +69,8 @@ PeduliCarbon is [MIT][mit] licensed, as found in the [LICENSE][license] file.
 [npm]: https://www.npmjs.com/
 [postcss]: https://postcss.org/
 [react-three-fiber]: https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
-[contributing]: https://github.com/janekskr/pedulicarbon/blob/master/CONTRIBUTING.md
-[mini-hackaton]: https://nowaakademia.org/mini-hackathon/mini-hackathon-edycja-iii/
+[contributing]: https://github.com/kdandy/pedulicarbon/blob/master/CONTRIBUTING.md
+[capstone]: https://www.instagram.com/p/C6BnZSBSuys/?igsh=dW1wMm1hd2xvMDB5
 [image-preview]: https://github.com/kdandy/pedulicarbon/blob/master/public/preview.png
 [pedulicarbon-link]: https://pedulicarbon.hmif.codes
 [nextjs]: https://nextjs.org/
