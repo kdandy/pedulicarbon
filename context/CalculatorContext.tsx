@@ -1,6 +1,6 @@
 "use client"
 
-//Data produksi CO2 terdapat dalam file pengukuran.txt
+//Data produksi CO2 terdapat dalam file pengukuran.txt 
 
 import React, { createContext, useState } from "react";
 
