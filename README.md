@@ -78,3 +78,4 @@ PeduliCarbon memiliki lisensi [MIT][mit] seperti yang dapat ditemukan pada file 
 [typescript]: https://www.typescriptlang.org/
 [tailwind]: https://tailwindcss.com
 [threejs]: https://threejs.org/
+[code-of-conduct]: https://github.com/kdandy/pedulicarbon/blob/master/CODE_OF_CONDUCT.md
