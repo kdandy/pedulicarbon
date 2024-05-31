@@ -17,7 +17,7 @@ const   SubmitButton = ({ className }: { className?: string }) => {
   }
 
   return (
-    <a href={href} onClick={handleClick} className={`${className} bg-[#36b796] block py-[5px] px-[10px] text-white rounded-lg`}>Kirim</a>
+    <a href={href} onClick={handleClick} className={`${className} bg-[#36b796] block py-[5px] px-[10px] text-white rounded-lg`}>Hitung!</a>
   )
 }
 

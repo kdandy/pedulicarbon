@@ -19,7 +19,7 @@ const NavItems = ({ className, onClick, isOpen }: NavItemsProps) => {
                 <LinkComponent name="Tentang" to="/about" />
             </li>
             <li onClick={onClick}>
-                <LinkComponent name="Calculator" to="/calculator/home" />
+                <LinkComponent name="Kalkulator" to="/calculator/home" />
             </li>
         </motion.ul>
     )
