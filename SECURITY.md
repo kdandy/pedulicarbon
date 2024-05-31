@@ -1,34 +1,34 @@
-# Brand Promise
+# Janji Merek
 
-Keeping user information safe and secure is a top priority, and we welcome the contribution of external security researchers.
+Menjaga informasi pengguna tetap aman dan terlindungi merupakan prioritas utama, dan kami menyambut baik kontribusi peneliti keamanan eksternal.
 
-# Scope
+# Cakupan
 
-If you believe you've found a security issue in software that is maintained in this repository, we encourage you to notify us.
+Jika Anda yakin telah menemukan masalah keamanan pada perangkat lunak yang dikelola dalam repositori ini, kami mendorong Anda untuk memberi tahu kami.
 
 | Version | In scope | Source code |
 | ------- | -------- | ----------- |
 | latest  |   ✅    | https:github.com/kdandy/pedulicarbon |
 
-# How to Submit a Report
+# Cara Mengirimkan Laporan
 
-To submit a vulnerability report, please contact us at mabamasihpemulateam@gmail.com. Your submission will be reviewed and validated by a member of our team.
+Untuk mengirimkan laporan kerentanan, silakan hubungi kami di mabamasihpemulateam@gmail.com. Laporan Anda akan ditinjau dan divalidasi oleh anggota tim kami.
 
-# Safe Harbor
+# Bug Bounty
 
-We support safe harbor for security researchers who:
+Kami mendukung Bug Bounty untuk peneliti keamanan yang:
 
-* Make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our services.
-* Only interact with accounts you own or with explicit permission of the account holder. If you do encounter Personally Identifiable Information (PII) contact us immediately, do not proceed with access, and immediately purge any local information.
-* Provide us with a reasonable amount of time to resolve vulnerabilities prior to any disclosure to the public or a third-party.
+* Beritikad baik untuk menghindari pelanggaran privasi, perusakan data, dan gangguan atau degradasi layanan kami.
+* Hanya berinteraksi dengan akun yang Anda miliki atau dengan izin eksplisit dari pemilik akun. Jika Anda menemukan Informasi Identifikasi Pribadi (PII), segera hubungi kami, jangan lanjutkan akses, dan segera bersihkan informasi lokal apa pun.
+* Memberikan waktu yang wajar kepada kami untuk menyelesaikan kerentanan sebelum pengungkapan kepada publik atau pihak ketiga.
 
-We will consider activities conducted consistent with this policy to constitute "authorized" conduct and will not pursue civil action or initiate a complaint to law enforcement. We will help to the extent we can if legal action is initiated by a third party against you.
+Kami akan menganggap kegiatan yang dilakukan sesuai dengan kebijakan ini sebagai tindakan yang “sah” dan tidak akan mengajukan gugatan perdata atau mengajukan keluhan kepada penegak hukum. Kami akan membantu sebisa mungkin jika tindakan hukum dilakukan oleh pihak ketiga terhadap Anda.
 
-Please submit a report to us before engaging in conduct that may be inconsistent with or unaddressed by this policy.
+Harap kirimkan laporan kepada kami sebelum terlibat dalam perilaku yang mungkin tidak sesuai dengan atau tidak tercakup dalam kebijakan ini.
 
-# Preferences
+# Preferensi
 
-* Please provide detailed reports with reproducible steps and a clearly defined impact.
-* Include the version number of the vulnerable package in your report
-* Social engineering (e.g. phishing, vishing, smishing) is prohibited.
+* Harap berikan laporan terperinci dengan langkah-langkah yang dapat direproduksi dan dampak yang jelas.
+* Cantumkan nomor versi paket yang rentan dalam laporan Anda
+* Rekayasa sosial (mis. phishing, vishing, smishing) dilarang.
 
