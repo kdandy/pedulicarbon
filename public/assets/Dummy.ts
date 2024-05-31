@@ -1,15 +1,15 @@
 export const links = [
     {
       href: "home",
-      name: "Home"
+      name: "Kebutuhan Rumah"
     },
     {
       href: "transport",
-      name: "Transport"
+      name: "Kendaraan"
     },
     {
       href: "entertainment",
-      name: "Telefony, Komputery itd..."
+      name: "Elektronik"
     },
     {
       href: "delivery",

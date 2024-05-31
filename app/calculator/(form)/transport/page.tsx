@@ -11,7 +11,7 @@ const Calculator = () => {
   return (
     <>
       <Header>
-        <TitleComponent>Transport</TitleComponent>
+        <TitleComponent>Kendaraan</TitleComponent>
         <NextBackButton back="home" next="entertainment" />
       </Header>
       <ScrollContainer  >
